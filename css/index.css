@@ -213,3 +213,14 @@ nav a {
 .middle-content .boxes .box.dodgerblue {
     background: dodgerblue;
 }
+
+.about-content {
+    padding: 20px;
+    border-bottom: 1px dashed black;
+    margin-bottom: 20px;
+}
+
+.main-content {
+    display: flex;
+    flex-wrap: wrap;
+}
