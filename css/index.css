@@ -104,8 +104,8 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
+    background: black;
     color: white;
     display: flex;
     align-items: center;
@@ -143,4 +143,71 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+header {
+    height: 50px;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+}
+
+.nav-logo {
+display: flex;
+justify-content: space-around;
+align-items: baseline;
+}
+
+nav {
+    width: 65%;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.lights {
+    margin-bottom: 20px;
+}
+
+.middle-content .boxes .box.teal {
+    background: teal;
+}
+
+.middle-content .boxes .box.gold {
+    background: gold;
+}
+
+.middle-content .boxes .box.cadetblue {
+    background: cadetblue;
+}
+
+.middle-content .boxes .box.coral {
+    background: coral;
+}
+
+.middle-content .boxes .box.crimson {
+    background: crimson;
+}
+
+.middle-content .boxes .box.forestgreen {
+    background: forestgreen;
+}
+
+.middle-content .boxes .box.darkorchid {
+    background: darkorchid;
+}
+
+.middle-content .boxes .box.hotpink {
+    background: hotpink;
+}
+
+.middle-content .boxes .box.indigo {
+    background: indigo;
+}
+
+.middle-content .boxes .box.dodgerblue {
+    background: dodgerblue;
 }
