@@ -54,6 +54,7 @@ table {
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
+    font-size: 14px;
 }
 
 h1, h2, h3, h4, h5 {
@@ -234,11 +235,12 @@ header nav a {
 }
 
 button {
-    margin-top: 10px;
+    margin-top: 15px;
     border-radius: 5px;
-    border: 1px solid black;
+    border: 2px solid black;
     padding: 5px 20px 5px 20px;
     color: black;
+    font-size: 14px;
 }
 
 .main-content div h2 {
