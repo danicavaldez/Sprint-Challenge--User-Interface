@@ -158,14 +158,14 @@ align-items: baseline;
 
 }
 
-nav {
+header nav {
     width: 65%;
     display: flex;
     justify-content: space-between;
     margin-left: 8%;
 }
 
-nav a {
+header nav a {
     text-decoration: none;
     color: black;
 }
@@ -239,4 +239,15 @@ button {
     border: 1px solid black;
     padding: 5px 20px 5px 20px;
     color: black;
+}
+
+.main-content div h2 {
+    margin-top: 10px;
+}
+
+.end-section {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
