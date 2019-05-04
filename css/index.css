@@ -153,14 +153,16 @@ header {
 
 .nav-logo {
 display: flex;
-justify-content: space-around;
+justify-content: flex-start;
 align-items: baseline;
+
 }
 
 nav {
     width: 65%;
     display: flex;
     justify-content: space-between;
+    margin-left: 8%;
 }
 
 nav a {
