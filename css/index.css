@@ -223,4 +223,20 @@ nav a {
 .main-content {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+}
+
+.main-content div {
+    width: 47%;
+    margin: 10px;
+    padding-bottom: 20px;
+    border-bottom: 1px dashed black;
+}
+
+button {
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px 20px 5px 20px;
+    color: black;
 }
